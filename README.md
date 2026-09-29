@@ -1,2 +1,0 @@
-# sj-devops
-Training repo
